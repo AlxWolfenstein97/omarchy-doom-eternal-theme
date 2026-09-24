@@ -1,0 +1,37 @@
+mode = "dark"
+
+# Eternal pack — Rip & Tear blood tint (COSMIC "Rip And Tear Dark" cue:
+# bg_color ≈ #300000, accent ≈ #FE0000) with hellfire orange dual-border.
+# Lifted off pure void so the desktop reads warmer than 2016's #0A0806.
+accent = "#FE0000"
+selection = "#3A0808"
+muted = "#8A6860"
+
+background = "#1A0808"
+dark_background = "#100404"
+darker_background = "#080202"
+lighter_background = "#2A1010"
+
+foreground = "#F5E8E0"
+dark_foreground = "#8A6860"
+light_foreground = "#DCC8C0"
+bright_foreground = "#FFFFFF"
+
+hyprland_active_border = "rgba(FE0000ee) rgba(FF6A1Cee) 45deg"
+hyprland_inactive_border = "rgba(3A0808aa)"
+
+red = "#FE0000"
+yellow = "#FEDB40"
+orange = "#FF6A1C"
+green = "#5EDB8C"
+cyan = "#48B9C7"
+blue = "#3E88FF"
+magenta = "#F93A83"
+brown = "#6B3A1A"
+
+bright_red = "#FFA090"
+bright_yellow = "#FFF19E"
+bright_green = "#ACF7D2"
+bright_cyan = "#94EBEB"
+bright_blue = "#63D0DF"
+bright_magenta = "#FF9CB1"

@@ -1,6 +1,6 @@
 text             = "#F5E8E0"
 placeholder      = "#DCC8C0"
-text-error       = "#FFA090"
+text-error       = "#FF6B78"
 border           = "#F5E8E0"
 border-active    = "#FE0000"
 border-error     = "#FF6A1C"

@@ -2,36 +2,44 @@ mode = "dark"
 
 # Eternal pack — Rip & Tear blood tint (COSMIC "Rip And Tear Dark" cue:
 # bg_color ≈ #300000, accent ≈ #FE0000) with hellfire orange dual-border.
-# Lifted off pure void so the desktop reads warmer than 2016's #0A0806.
+#
+# Slot split (not a bug): Limine / Hyprland borders / keyboard read `accent`
+# (pure #FE0000 — in-your-face). OmaVT paints the console from
+# darker_background + the ANSI row (red/green/…); pure primaries read dim on
+# VGA because luminance is green-weighted. Normals are pastelized so TTY pops;
+# accent stays pure for people who never hop to a VT.
 accent = "#FE0000"
 selection = "#3A0808"
-muted = "#8A6860"
+muted = "#9A7870"
 
 background = "#1A0808"
-dark_background = "#100404"
-darker_background = "#080202"
+dark_background = "#120606"
+# Lifted off crushed black so the blood tint actually reads on a real VT
+darker_background = "#140808"
 lighter_background = "#2A1010"
 
 foreground = "#F5E8E0"
-dark_foreground = "#8A6860"
+dark_foreground = "#9A7870"
 light_foreground = "#DCC8C0"
 bright_foreground = "#FFFFFF"
 
 hyprland_active_border = "rgba(FE0000ee) rgba(FF6A1Cee) 45deg"
 hyprland_inactive_border = "rgba(3A0808aa)"
 
-red = "#FE0000"
-yellow = "#FEDB40"
+# ANSI normals — pastel blood / fire (TTY + terminal chrome). Not pure #FE0000.
+red = "#FF6B78"
+yellow = "#FFE066"
 orange = "#FF6A1C"
-green = "#5EDB8C"
-cyan = "#48B9C7"
-blue = "#3E88FF"
-magenta = "#F93A83"
-brown = "#6B3A1A"
+green = "#7AE8A0"
+cyan = "#6AD4E0"
+blue = "#6B9FFF"
+magenta = "#FF6B9D"
+brown = "#8A5040"
 
+# Brights — keep the Rip-and-Tear coral/mint glow
 bright_red = "#FFA090"
 bright_yellow = "#FFF19E"
 bright_green = "#ACF7D2"
 bright_cyan = "#94EBEB"
-bright_blue = "#63D0DF"
+bright_blue = "#8AD4E8"
 bright_magenta = "#FF9CB1"

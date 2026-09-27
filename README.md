@@ -3,8 +3,8 @@
 Rip and Tear, until it is DONE! Mick Gordon's Metal Choir has yet to reach
 our hypr systems, cliamp some more. What if your desktop matched Eternal’s
 **blood red → hellfire orange** instead of 2016’s praetor green dual-accent?
-Same Hyprland border trick as Asphalt, HEV, Galuga, Counter-Strike, Cyber
-Shadow, and Doom 2016 — warmer void, louder crimson. Pure `#FE0000` stays on
+Same Hyprland border trick as Asphalt, HEV, Galuga, CS, Cyber Shadow, Doom 2016, Caged, KI, Rising, Stanley, SF6, T2D & USFIV —
+warmer void, louder crimson. Pure `#FE0000` stays on
 `accent` (Limine / borders); the ANSI row is pastelized so OmaVT / getty
 actually pops — different slots, not a plugin bug.
 
